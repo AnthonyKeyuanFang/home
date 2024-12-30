@@ -30,23 +30,23 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:kfang087@connect.hkust-gz.edu.cn'
     label: E-mail Me
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=y5EvYtMAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: http://orcid.org/0009-0009-9245-8791
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Large Language Models
+  - Computational Social Science
+  - Natural Language Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Innovation, Policy, and Entrepreneurship
+    institution: HKUST(GZ)
+    date_start: 2022-09-01
+    date_end: 2025-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
