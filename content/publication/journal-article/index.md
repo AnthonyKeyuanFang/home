@@ -26,7 +26,7 @@ abstract: In the era of digital governance, governments are expected to respond 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Large Language Models
 featured: true
 
 # links:
