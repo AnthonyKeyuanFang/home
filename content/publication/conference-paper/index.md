@@ -44,13 +44,13 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1145/3654823.3654825'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://doi.org/10.1145/3654823.3654825'
+url_source: ''
 url_video: ''
 
 # Featured image
