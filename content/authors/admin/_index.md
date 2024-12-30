@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 方岢愿
+title: FANG Keyuan
 
 # Name pronunciation (optional)
-name_pronunciation: FANG Keyuan
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Keyuan
