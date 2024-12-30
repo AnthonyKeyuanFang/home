@@ -17,8 +17,8 @@ publishDate: "2023-11-10T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2023 3rd International Conference on Digital Society and Intelligent Systems"
-publication_short: "DSInS 2023"
+publication: In *2023 3rd International Conference on Digital Society and Intelligent Systems*
+publication_short: In *DSInS 2023*
 
 abstract: In the era of digital governance, governments are expected to respond to citizens’ inquiries timely and effectively. Nevertheless, government agencies find it increasingly difficult to cope with an unprecedented volume of citizens’ inquiries on diverse issues. Governments are calling for a more effective and intelligent question-answering (QA) system to generate responses to citizens’ inquiries. However, the existing QA systems in governments are primarily operated by human agents, with limited assistance from AI algorithms. The application of advanced large language models (LLMs) in digital governments holds promise to addressing citizens’ requests in an automatic and effective manner. LLMs can enhance the efficiency and intelligence of government-citizen interactions, offering nuanced and human-like answers to diverse citizen inquiries. Nevertheless, existing LLMs-based all-purpose GPT application has limited understanding of professional expressions in the government domain and are unable to effectively respond like public officials. This study tries to build a QA guidance system specialized in government affairs based on LLMs and historical citizen question vector databases. After inputting a new question, the system can generate practically effective exemplary responses for government staff to reference when answering citizens’ new questions. This system shows better performance than baseline models and improves the efficiency and accuracy of digital governments when answering citizens’ questions.
 
