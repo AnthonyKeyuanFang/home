@@ -6,7 +6,7 @@ authors:
 author_notes:
 
 date: "2023-11-10T00:00:00Z"
-doi: "https://ieeexplore.ieee.org/abstract/document/10455136"
+doi: "https://doi.org/10.1109/DSInS60115.2023.10455136"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-11-10T00:00:00Z"
