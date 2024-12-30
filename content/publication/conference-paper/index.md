@@ -14,7 +14,7 @@ author_notes:
   - 'Equal contribution'
 
 date: '2024-05-29T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1145/3654823.3654825'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-05-29T00:00:00Z'
@@ -50,7 +50,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://doi.org/10.1145/3654823.3654825'
 url_video: ''
 
 # Featured image
