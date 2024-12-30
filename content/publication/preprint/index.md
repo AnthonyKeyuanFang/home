@@ -12,13 +12,13 @@ publishDate: "2024-10-18T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+publication_types: Conference Paper
 
 # Publication name and optional abbreviated publication name.
 publication: In *2024 7th International Conference on Machine Learning and Natural Language Processing (MLNLP)*
 publication_short: In *MLNLP 2024*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Social computing, an emerging interdisciplinary field, is centered on understanding and predicting human social behaviors and their patterns. Despite the important role of time series prediction in social computing, existing model-driven approaches often ignore the significant impact that data feature weights can have on time series prediction tasks. This limitation leads to many predictive models performing well on standard test data but failing to achieve the expected accuracy on real-world social computing data. Recent studies have shown that Large Language Models (LLMs) possess strong pattern recognition and reasoning capabilities for sequences. However, effectively applying their amazing text reasoning abilities to social computing and time series forecasting remains challenging. To solve these two significant research gaps, this study proposes an innovative time series forecasting model based on LLMs and SHAP. This model is an adaptive multimodal supervised learning framework that can both combine time series data with token embedding data and dynamically adjust feature weights after a few training iterations to recognize the feature patterns hidden behind real-world data. By the proposed model structure, this model can focus on features with the greatest influence on the prediction results, hence improving prediction performance with stability and promoting LLMs' application in time series prediction related to social computing. Besides conventional performance testing, this study also proposes an evaluation indicator for measuring the feature weight adjustment effect of time series models. This effectively enriches model evaluation dimensions and allows for diversified evaluation of time series models.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -43,7 +43,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -64,9 +64,3 @@ slides: example
 ---
 
 
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
