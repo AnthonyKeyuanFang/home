@@ -13,7 +13,7 @@ address:
   country: China
 
 summary: Research Method Workshop.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'A simplified introduction about how to apply machine learning and text analysis in social science research.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
