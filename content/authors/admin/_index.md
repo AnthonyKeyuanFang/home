@@ -3,7 +3,7 @@
 title: FANG Keyuan
 
 # Name pronunciation (optional)
-name_pronunciation: 方岢愿
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Keyuan
