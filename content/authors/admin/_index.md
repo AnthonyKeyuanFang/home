@@ -10,7 +10,7 @@ first_name: Keyuan
 last_name: FANG
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧨
 
 # Is this the primary user of the site?
 superuser: true
